@@ -1,0 +1,99 @@
+awscli @ file:///home/conda/feedstock_root/build_artifacts/awscli_1707269629209/work
+botocore @ file:///home/conda/feedstock_root/build_artifacts/botocore_1707261958209/work
+Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1695989787169/work
+causal-learn==0.1.3.8
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1707022139797/work/certifi
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1696001742886/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
+clarabel==0.6.0
+click @ file:///home/conda/feedstock_root/build_artifacts/click_1692311806742/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+colorclass==2.2.2
+conda==4.11.0
+conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1666837452491/work
+contourpy==1.2.0
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography-split_1672672393437/work
+cvxpy==1.4.2
+cycler==0.12.1
+Cython==3.0.8
+docopt==0.6.2
+docutils @ file:///home/conda/feedstock_root/build_artifacts/docutils_1707130779148/work
+-e git+https://github.com/py-why/dodiscover.git@2585f404c3d3eed73aca9b6ab38cf98dfc14c1a1#egg=dodiscover
+dowhy==0.11.1
+dparse @ file:///home/conda/feedstock_root/build_artifacts/dparse_1687803182432/work
+duckdb==0.10.0
+ecos==2.0.13
+filelock==3.13.1
+fonttools==4.49.0
+fsspec==2024.2.0
+graphviz==0.20.1
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1701026962277/work
+importlib-resources==6.1.1
+Jinja2==3.1.3
+jmespath @ file:///home/conda/feedstock_root/build_artifacts/jmespath_1655568249366/work
+joblib==1.3.2
+kiwisolver==1.4.5
+MarkupSafe==2.1.5
+matplotlib==3.8.3
+mpmath==1.3.0
+networkx==3.2.1
+numpy==1.24.4
+nvidia-cublas-cu12==12.1.3.1
+nvidia-cuda-cupti-cu12==12.1.105
+nvidia-cuda-nvrtc-cu12==12.1.105
+nvidia-cuda-runtime-cu12==12.1.105
+nvidia-cudnn-cu12==8.9.2.26
+nvidia-cufft-cu12==11.0.2.54
+nvidia-curand-cu12==10.3.2.106
+nvidia-cusolver-cu12==11.4.5.107
+nvidia-cusparse-cu12==12.1.0.106
+nvidia-nccl-cu12==2.19.3
+nvidia-nvjitlink-cu12==12.3.101
+nvidia-nvtx-cu12==12.1.105
+osqp==0.6.5
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pandas==1.5.3
+patsy==0.5.6
+pillow==10.2.0
+pip-upgrader==1.4.15
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1706116770704/work
+progressbar2==4.3.2
+psutil==5.9.8
+pyasn1 @ file:///home/conda/feedstock_root/build_artifacts/pyasn1_1701287008248/work
+pybind11==2.11.1
+pycosat @ file:///home/conda/feedstock_root/build_artifacts/pycosat_1696355771368/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pydot==2.0.0
+pygam==0.9.0
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1685514481738/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1690737849915/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-utils==3.8.2
+pytz==2024.1
+PyYAML @ file:///home/conda/feedstock_root/build_artifacts/pyyaml_1695373447169/work
+qdldl==0.1.7.post0
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+rsa @ file:///home/conda/feedstock_root/build_artifacts/rsa_1614171254180/work
+ruamel-yaml-conda @ file:///home/conda/feedstock_root/build_artifacts/ruamel_yaml_1695546226533/work
+ruamel.yaml @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml_1698138655362/work
+ruamel.yaml.clib @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml.clib_1707314520663/work
+s3transfer @ file:///home/conda/feedstock_root/build_artifacts/s3transfer_1703197439685/work
+safety @ file:///home/conda/feedstock_root/build_artifacts/safety_1670581827159/work
+scikit-learn==1.4.1.post1
+scipy==1.11.4
+scs==3.2.4.post1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+statsmodels==0.14.1
+supervisor==4.2.5
+sympy==1.12
+terminaltables==3.1.10
+threadpoolctl==3.3.0
+tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1644342247877/work
+toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1706112571092/work
+torch==2.2.1
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1691671248568/work
+triton==2.2.0
+typing_extensions==4.9.0
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1697813446430/work
+zipp==3.17.0
