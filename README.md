@@ -14,4 +14,4 @@ We’re currently working on an end-to-end dataset search system to support rich
 
 ---
 
-Please drop me a line at **jl6235@columbia.edu** if you would like to collaborate with the DAPLab(https://daplab.cs.columbia.edu/) 
+Please drop me a line at **jl6235@columbia.edu** if you would like to collaborate with the [DAPLab](https://daplab.cs.columbia.edu/) 
